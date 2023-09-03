@@ -8,7 +8,7 @@
 
 :root {
   --dark: #350363;
-  --background: hsl(181, 100%, 50%);
+  --background:  rgba(33, 232, 229, 0.854);
 }
 
 html {
